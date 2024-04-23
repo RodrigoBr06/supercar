@@ -1,0 +1,79 @@
+@charset "utf-8";
+:root{
+    --color:#F2BD1D;
+}
+*{
+    margin: 0px;
+    padding: 0px ;
+}
+
+body{
+
+
+    background-color: black;
+    color:white;
+    line-height: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-image: url("imagens3/pexels-skelm-7856822.jpg");
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: left center;
+   line-height: 2em;
+   
+
+    
+} 
+header{
+    background-color:  rgba(23, 24, 24, 0.384);
+    padding: 30px;
+    line-height: 2.5em;
+}
+main{
+    margin: 50px;
+    padding: 50px  ;
+    background-color: rgba(11, 12, 12, 0.44);
+    
+}
+h1{
+    font-size: 7vh;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+}
+p.voltar{
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    font-variant: small-caps;
+    padding-top: 50px;
+
+}
+
+footer{
+    background-color:rgb(57, 60, 60);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;}
+
+
+a:hover{
+    color: red;
+}
+img{
+
+    width: 250px;
+}
+div{
+    text-align: center;
+    background-size: 2%2%;
+
+}
+
