@@ -19,6 +19,8 @@ body{
    background-attachment: fixed;
    background-position: left center;
    line-height: 2em;
+   text-align: justify;
+   text-indent: 20px;
    
 
     
@@ -29,8 +31,8 @@ header{
     line-height: 2.5em;
 }
 main{
-    margin: 50px;
-    padding: 50px  ;
+    margin: 30px;
+    padding: 10px;
     background-color: rgba(11, 12, 12, 0.44);
     
 }
